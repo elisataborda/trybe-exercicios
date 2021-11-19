@@ -1,1 +1,2 @@
 teste de exercicio 1 na branch do bloco 3
+novas alterações para um novo commit
